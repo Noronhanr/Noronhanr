@@ -1,4 +1,4 @@
-# 👨‍💻 Eduardo Noronha
+# Eduardo Noronha
 
 **` UI Design | Desenvolvedor Web/mobile`**
 
