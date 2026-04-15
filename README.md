@@ -1,3 +1,6 @@
+<img width="1584" height="396" alt="WhatsApp Image 2026-04-15 at 14 31 27" src="https://github.com/user-attachments/assets/54e76938-be99-4ef2-bc2c-8767d68ea423" />
+
+
 # Eduardo Noronha
 
 **` UI Design | Desenvolvedor Web/mobile`**
