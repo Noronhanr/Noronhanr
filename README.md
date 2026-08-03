@@ -92,6 +92,14 @@ Me chamo Eduardo Noronha, sou técnico em Desenvolvimento de Sistemas e atualmen
     style="padding-right: 10px;" 
     src="https://cdn.simpleicons.org/elementor/E4405F" 
 />
+<img 
+  align="left"
+  alt="SQLite"
+  title="SQLite"
+  width="30px"
+  style="padding-right: 10px;"
+  src="https://cdn.simpleicons.org/sqlite/003B57"
+/>
 
 
 <br/>
