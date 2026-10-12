@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1584" height="396" viewBox="0 0 1584 396" role="img" aria-label="Eduardo Noronha — Desenvolvedor Front-end">
+  <defs>
+    <radialGradient id="glowLeft" cx="310" cy="185" r="330" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#4b2a8c"/>
+      <stop offset="0.55" stop-color="#2a1a55" stop-opacity="0.75"/>
+      <stop offset="1" stop-color="#130d24" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowRight" cx="1500" cy="420" r="300" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#5a1f6e"/>
+      <stop offset="1" stop-color="#130d24" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="dots" width="26" height="26" patternUnits="userSpaceOnUse">
+      <circle cx="13" cy="13" r="1" fill="#ffffff" fill-opacity="0.13"/>
+    </pattern>
+  </defs>
+
+  <rect width="1584" height="396" fill="#130d24"/>
+  <rect width="1584" height="396" fill="url(#glowLeft)"/>
+  <rect width="1584" height="396" fill="url(#glowRight)"/>
+  <rect width="1584" height="396" fill="url(#dots)"/>
+
+  <g fill="none" stroke="#6f55ad" stroke-opacity="0.75" stroke-width="18">
+    <polyline points="250,137 196,178 250,219"/>
+    <line x1="340" y1="110" x2="282" y2="244"/>
+    <polyline points="378,137 432,178 378,219"/>
+  </g>
+
+  <rect x="594" y="48" width="923" height="302" rx="12" fill="#1b1432" stroke="#33284f"/>
+  <line x1="594" y1="101" x2="1517" y2="101" stroke="#2c2245"/>
+  <circle cx="624" cy="74" r="6.5" fill="#ff5f57"/>
+  <circle cx="647" cy="74" r="6.5" fill="#febc2e"/>
+  <circle cx="670" cy="74" r="6.5" fill="#28c840"/>
+
+  <g font-family="Consolas, Menlo, 'DejaVu Sans Mono', 'Courier New', monospace">
+    <text x="701" y="80" font-size="18" fill="#9a93b5">dev.ts</text>
+
+    <g font-size="21" fill="#5b5478">
+      <text x="622" y="145">1</text>
+      <text x="622" y="180">2</text>
+      <text x="622" y="215">3</text>
+      <text x="622" y="250">4</text>
+      <text x="622" y="285">5</text>
+      <text x="622" y="320">6</text>
+    </g>
+
+    <g font-size="21" fill="#c9c3de">
+      <text x="661" y="145"><tspan fill="#c792ea">const</tspan> <tspan fill="#f1edfb">dev</tspan> = {</text>
+      <text x="687" y="180"><tspan fill="#8fb4ff">cargo</tspan>: <tspan fill="#f0a6e8">"Desenvolvedor Front-end"</tspan>,</text>
+      <text x="687" y="215"><tspan fill="#8fb4ff">formacao</tspan>: <tspan fill="#f0a6e8">"Ciência da Computação, UFAPE"</tspan>,</text>
+      <text x="687" y="250"><tspan fill="#8fb4ff">stack</tspan>: [<tspan fill="#f0a6e8">"React"</tspan>, <tspan fill="#f0a6e8">"Next.js"</tspan>, <tspan fill="#f0a6e8">"Tailwind"</tspan>, <tspan fill="#f0a6e8">"Supabase"</tspan>],</text>
+      <text x="687" y="285"><tspan fill="#8fb4ff">foco</tspan>: <tspan fill="#f0a6e8">"interfaces responsivas e intuitivas"</tspan>,</text>
+      <text x="661" y="320">};</text>
+    </g>
+  </g>
+</svg>
