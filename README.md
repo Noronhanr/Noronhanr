@@ -77,7 +77,7 @@ Sigo me aprofundando em **React**, **Next.js**, **Node.js** e arquitetura de apl
 
 <div align="center">
   <br/>
-  <img alt="Sequência de contribuições" src="https://streak-stats.demolab.com?user=Noronhanr&locale=pt_BR&hide_border=false&background=1B1432&border=33284F&stroke=33284F&ring=A78BFA&fire=F0A6E8&currStreakNum=F1EDFB&sideNums=F1EDFB&currStreakLabel=A78BFA&sideLabels=A78BFA&dates=9A93B5" />
+  <img alt="Sequência de contribuições" src="https://github-readme-streak-stats-eight.vercel.app/?user=Noronhanr&locale=pt_BR&hide_border=false&background=1B1432&border=33284F&stroke=33284F&ring=A78BFA&fire=F0A6E8&currStreakNum=F1EDFB&sideNums=F1EDFB&currStreakLabel=A78BFA&sideLabels=A78BFA&dates=9A93B5" />
 
   <br/><br/>
 
@@ -91,5 +91,5 @@ Sigo me aprofundando em **React**, **Next.js**, **Node.js** e arquitetura de apl
 
 <div align="center">
   <br/>
-  <img alt="Gráfico de atividade" width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Noronhanr&custom_title=Minhas%20contribui%C3%A7%C3%B5es&bg_color=1B1432&color=A78BFA&line=A78BFA&point=F0A6E8&area=true&area_color=A78BFA&hide_border=false" />
+  <img alt="Gráfico de atividade" width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Noronhanr&theme=tokyonight" />
 </div>
